@@ -19,6 +19,7 @@ tabs:
     caption: Gallery
 overview:
   height: 900
+  vc: gb24
   grid-display: dashed
   buffer-west: 10000
   buffer-east: 10000
