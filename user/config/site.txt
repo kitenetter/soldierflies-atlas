@@ -20,6 +20,7 @@ tabs:
 overview:
   height: 900
   vc: gb24
+  hectad-grid: true
   grid-display: dashed
   buffer-west: 10000
   buffer-east: 10000
