@@ -1,6 +1,5 @@
 taxonId,taxon
 acrocera_orbiculus,Acrocera orbiculus
-asilidae,Asilidae
 asilus_crabroniformis,Asilus crabroniformis
 atrichops_crassipes,Atrichops crassipes
 atylotus_fulvus,Atylotus fulvus
@@ -10,7 +9,6 @@ beris_clavipes,Beris clavipes
 beris_geniculata,Beris geniculata
 beris_morrisii,Beris morrisii
 beris_vallata,Beris vallata
-bombylius,Bombylius
 bombylius_discolor,Bombylius discolor
 bombylius_major,Bombylius major
 chloromyia_formosa,Chloromyia formosa
@@ -31,7 +29,6 @@ dioctria_rufipes,Dioctria rufipes
 dysmachus_trigonus,Dysmachus trigonus
 eupachygaster_tarsalis,Eupachygaster tarsalis
 eutolmus_rufibarbis,Eutolmus rufibarbis
-haematopota,Haematopota
 haematopota_crassicornis,Haematopota crassicornis
 haematopota_pluvialis,Haematopota pluvialis
 hybomitra_bimaculata,Hybomitra bimaculata
@@ -39,7 +36,6 @@ hybomitra_distinguenda,Hybomitra distinguenda
 lasiopogon_cinctus,Lasiopogon cinctus
 leptarthrus_brevirostris,Leptarthrus brevirostris
 leptarthrus_vitripennis,Leptarthrus vitripennis
-leptogaster,Leptogaster
 leptogaster_cylindrica,Leptogaster cylindrica
 leptogaster_guttiventris,Leptogaster guttiventris
 machimus_atricapillus,Machimus atricapillus
@@ -62,7 +58,6 @@ oxycera_morrisii,Oxycera morrisii
 oxycera_nigricornis,Oxycera nigricornis
 oxycera_rara,Oxycera rara
 oxycera_trilineata,Oxycera trilineata
-pachygaster,Pachygaster
 pachygaster_atra,Pachygaster atra
 pachygaster_leachii,Pachygaster leachii
 pandivirilia_melaleuca,Pandivirilia melaleuca
@@ -81,7 +76,6 @@ stratiomys_longicornis,Stratiomys longicornis
 stratiomys_potamida,Stratiomys potamida
 stratiomys_singularior,Stratiomys singularior
 symphoromyia_immaculata,Symphoromyia immaculata
-tabanidae,Tabanidae
 tabanus_autumnalis,Tabanus autumnalis
 tabanus_bromius,Tabanus bromius
 tabanus_cordiger,Tabanus cordiger
