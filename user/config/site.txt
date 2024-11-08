@@ -1,7 +1,7 @@
 nname: Demo atlas - Soldierflies and Allies
 header-background-colour: "#EF9766"
 header-text-colour: white
-header-logo: dipteristsforum.png
+header-logo: dipteristsforum_white.png
 header-logo-height: 80
 nav:
   - caption: Readme
